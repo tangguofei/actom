@@ -2,4 +2,5 @@ theme: readthedocs
 site_name: actom
 nav:
   - 主页: commands.md
+    - test: test.md
   - 测试: test.md
